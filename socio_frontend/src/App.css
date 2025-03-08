@@ -1,0 +1,8 @@
+body{
+  font-family: Poppins;
+  color:white;
+}
+
+.nav-link, .navbar-brand{
+  color:white !important
+}
